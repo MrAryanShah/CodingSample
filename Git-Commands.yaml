@@ -5,3 +5,5 @@ git clone git@github.com:MrAryanShah/CodingSample.git
 git commit -m "Message"
 
 git push
+
+git pull
