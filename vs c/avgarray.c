@@ -1,8 +1,8 @@
 #include<stdio.h>
-#define size 5
+#define size 6
 int main(void)
 {
-    int grade[5]={90, 80, 92, 95, 100};
+    int grade[6]={10, 90, 80, 92, 95, 100};
     double sum=0.0;
     int i;
     printf("my grades are:\n");
