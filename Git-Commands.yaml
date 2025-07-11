@@ -1,0 +1,7 @@
+git clone git@github.com:MrAryanShah/CodingSample.git
+
+ git add .
+
+git commit -m "Message"
+
+git push
